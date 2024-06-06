@@ -22,6 +22,8 @@ alias ws="sudo mount -t cifs -o username="guest",password="" //192.168.3.27/æŠ¥å
 alias jp="jupyter notebook"
 alias fg="$HOME/Downloads/fastgithub_linux-x64/fastgithub"
 alias wifi="python $HOME/Documents/my_python/connect_wifi.py"
+alias ccc="setterm --blank force"
+alias ooo="setterm --blank pork"
 # npm
 #alias tbnpm="npm --registry=https://registry.npm.taobao.org"
 #alias npmil="tbnpm install"
